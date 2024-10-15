@@ -1,3 +1,4 @@
+// 111111111111111
 import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args) {
@@ -16,4 +17,4 @@ public class Factorial {
             return n * calculateFactorial(n - 1);
     }
 }
-// excellent0071111111111111111
+
