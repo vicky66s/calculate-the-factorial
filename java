@@ -1,4 +1,4 @@
-// 111111111111111
+// 0001
 import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args) {
